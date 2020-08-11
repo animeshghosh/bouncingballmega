@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Bouncing Ball Mega</name>
+
+  <description>
+      Bouncing Ball Mega
+  </description>
+
+  <author href="https://build.phonegap.com" email="animeshghosh.in@gmail.com">
+      L'il Champ Ayush
+  </author>
+
+	<icon src="icon.jpg" />
+
+</widget>
